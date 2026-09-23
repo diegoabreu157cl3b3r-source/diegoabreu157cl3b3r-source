@@ -26,7 +26,7 @@ Atualmente estou aprofundando meus conhecimentos em **TypeScript, Next.js, Git e
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,mysql,github" />
 
 </div>
 
