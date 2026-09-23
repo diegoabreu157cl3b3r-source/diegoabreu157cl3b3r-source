@@ -72,19 +72,6 @@ Arquitetura de aplicações web
 Estou focado em fortalecer minha base e aprender através da construção de projetos.
 
 ---
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=diegoabreu157cl3b3r-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoabreu157cl3b3r-source&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=D4AF37&text_color=FFFFFF" />
-
-</div>
-
----
-
 ## 🔥 Atividade
 
 <div align="center">
